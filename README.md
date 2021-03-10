@@ -33,7 +33,13 @@ You need to get the Bot token, which can be found here:
 
 and replace that in the `app.js` file as well.
 
-Once you're done, simply run `node app.js` and it will start the bot.
+Next, simply install the packages by running:
+
+```
+npm install
+```
+
+Once you're done, run `node app.js` and it will start the bot. I would personally run it as a service, but you can do it however you want.
 
 ## Find your bot invitation link
 A regular invitation link looks like this:
